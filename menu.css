@@ -1,0 +1,48 @@
+.one{
+    display: flex;
+    align-items: center;
+    tab-size: 0cap;
+    box-shadow: 1px;
+}
+.home-box{
+    background-color: rgb(248, 250, 250);
+    padding: 10px;
+    margin-right: 10px;
+    cursor: pointer; 
+    color: black;
+
+}
+.login-box{
+    background-color:rgb(222, 228, 222);
+    padding: 10px;
+    margin-left: 15%;
+    cursor: pointer;
+}
+.regis-box{
+    background-color: rgb(249, 248, 250);
+    padding: 10px;
+    margin-left: 15%;
+    cursor: pointer;
+}
+.Catalogue-box{
+    background-color: rgb(247, 246, 245);
+    padding: 10px;
+    margin-left: 15%;
+    cursor: pointer;
+}
+.Catalogue-box{
+    background-color: rgb(248, 244, 247);
+    padding: 10px;
+    margin-left: 15%;
+    cursor: pointer;
+}
+.cart-box{
+    background-color: rgb(248, 244, 247);
+    padding: 10px;
+    margin-left: 15%;
+    cursor: pointer;
+}
+}
+body{
+    background-color: rgba(145, 208, 224, 0.877);
+}

@@ -1,0 +1,17 @@
+.topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    
+  }
+  
+  .topnav a.active{
+    font-size: 25px;
+    background-color: aqua;
+  }
+  body{
+    background-color: aqua;
+  }

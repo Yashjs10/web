@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 5px;
+    cursor: pointer;
+}
+h3{
+    text-rendering: initial;
+    
+}
